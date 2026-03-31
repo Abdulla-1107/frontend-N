@@ -131,7 +131,7 @@ export const translations = {
   },
   "about.handmade": { uz: "Qo'l mehnati", en: "Handcraft", ru: "Ручной труд" },
   "about.handmade.desc": {
-    uz: "Har bir dasturxon tajribali usta tomonidan haftalab qo'lda tayyorlanadi. Hech qanday mashina ishlatilmaydi.",
+    uz: "Har bir dasturxon tajribali usta tomonidan oylab qo'lda tayyorlanadi. Hech qanday mashina ishlatilmaydi.",
     en: "Each tablecloth is handcrafted by skilled artisans over weeks. No machines are used.",
     ru: "Каждая скатерть изготавливается вручную опытными мастерами в течение недель. Никаких машин.",
   },
