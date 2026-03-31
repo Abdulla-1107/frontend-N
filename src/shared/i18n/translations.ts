@@ -70,7 +70,7 @@ export const translations = {
   "featured.title1": { uz: "Tanlangan", en: "Featured", ru: "Избранные" },
   "featured.title2": { uz: "mahsulotlar", en: "products", ru: "продукты" },
   "featured.subtitle": {
-    uz: "Eng mashhur qo'lda tayyorlangan dasturxonlarimiz",
+    uz: "Eng mashhur qo'lda tayyorlangan mahsulotlarimiz",
     en: "Our most popular handmade tablecloths",
     ru: "Наши самые популярные скатерти ручной работы",
   },
@@ -80,7 +80,7 @@ export const translations = {
   // Products page
   "products.title": { uz: "Mahsulotlar", en: "Products", ru: "Продукты" },
   "products.subtitle": {
-    uz: "Qo'lda tayyorlangan noyob ipak dasturxonlar",
+    uz: "Qo'lda tayyorlangan sifatli mahsulotlar",
     en: "Unique handcrafted silk tablecloths",
     ru: "Уникальные шёлковые скатерти ручной работы",
   },
