@@ -19,7 +19,7 @@ export const translations = {
     ru: "Шёлк и искусство —",
   },
   "hero.desc": {
-    uz: "Har bir dasturxon — 70% ipak va 30% paxta tolasidan qo'lda to'qilgan, miniatura san'ati bilan bezatilgan noyob asar.",
+    uz: "Har bir dasturxon — 70% ipak va 30% paxta tolasidan qo'lda to'qilingan mato,mashhur rassomlar tomonidan miniatura san'ati chizilgan va u qo'l kashtasi bilan bezatilgan. KASHTAGA IPAK IPLAR BILAN KASHTA SOLINADI",
     en: "Each tablecloth is handwoven from 70% silk and 30% cotton, adorned with miniature art — a unique masterpiece.",
     ru: "Каждая скатерть соткана вручную из 70% шёлка и 30% хлопка, украшенная миниатюрным искусством — уникальное произведение.",
   },
@@ -48,7 +48,7 @@ export const translations = {
   "story.title1": { uz: "An'ana va", en: "Tradition &", ru: "Традиции и" },
   "story.title2": { uz: "zarafat", en: "elegance", ru: "изящество" },
   "story.p1": {
-    uz: "Naqshizarr brendi o'zbek qo'l hunarmandchiligining eng nozik namunalarini yaratadi. Har bir dasturxon ustida tajribali ustalar haftalab mehnat qiladi — ipak tolalarini sinchiklab to'qib, an'anaviy miniatura tasvirlarini chizadi.",
+    uz: "Naqshizarr brendi o'zbek qo'l hunarmandchiligining eng nozik namunalarini yaratadi. Har bir dasturxon ustida tajribali ustalar oylab mehnat qiladi — ipak tolalarini sinchiklab to'qib, an'anaviy miniatura tasvirlarini chizadi.",
     en: "The Naqshizarr brand creates the finest examples of Uzbek handcraft. Skilled artisans work for weeks on each tablecloth — meticulously weaving silk fibers and painting traditional miniature art.",
     ru: "Бренд Naqshizarr создаёт лучшие образцы узбекского ремесла. Опытные мастера неделями трудятся над каждой скатертью — тщательно ткут шёлковые волокна и рисуют традиционные миниатюры.",
   },
