@@ -7,7 +7,7 @@ import ProductCard from "@/features/products/ProductCard";
 import { ProductCardSkeleton } from "@/shared/ui/ProductCardSkeleton";
 import { useLanguage } from "@/shared/i18n/LanguageContext";
 import heroImg from "@/assets/hero-tablecloth.jpg";
-import processImg from "@/assets/handmade-process.jpg";
+import processImg from "@/assets/about-art copy.jpg";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 30 },
@@ -155,7 +155,7 @@ export default function HomePage() {
             <img
               src={processImg}
               alt="Qo'l mehnati jarayoni"
-              className="h-72 w-full object-cover md:h-80"
+              className="h-72 w-full object-contain md:h-80"
               loading="lazy"
             />
           </motion.div>

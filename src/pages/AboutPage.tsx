@@ -65,10 +65,10 @@ export default function AboutPage() {
       <section className="container py-16">
         <div className="grid gap-6 md:grid-cols-2">
           <motion.div initial={{ opacity: 0, x: -20 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} className="overflow-hidden rounded-xl shadow-card">
-            <img src={processImg} alt={t("about.handmade")} className="h-72 w-full object-cover md:h-80" loading="lazy" />
+            <img src={processImg} alt={t("about.handmade")} className="h-72 w-full object-contain md:h-80" loading="lazy" />
           </motion.div>
           <motion.div initial={{ opacity: 0, x: 20 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }} className="overflow-hidden rounded-xl shadow-card">
-            <img src={aboutArt} alt={t("about.miniature")} className="h-72 w-full object-cover md:h-80" loading="lazy" />
+            <img src={aboutArt} alt={t("about.miniature")} className="h-72 w-full object-contain md:h-80" loading="lazy" />
           </motion.div>
         </div>
       </section>

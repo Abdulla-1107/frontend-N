@@ -9,7 +9,7 @@ export const translations = {
 
   // Hero
   "hero.subtitle": {
-    uz: "Qo'lda yaratilgan hashamat",
+    uz: "Har bir naqsh - Meros, Har bir kiyim - hikoya",
     en: "Handcrafted luxury",
     ru: "Роскошь ручной работы",
   },
