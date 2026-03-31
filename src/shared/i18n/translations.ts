@@ -48,7 +48,7 @@ export const translations = {
   "story.title1": { uz: "An'ana va", en: "Tradition &", ru: "Традиции и" },
   "story.title2": { uz: "zarafat", en: "elegance", ru: "изящество" },
   "story.p1": {
-    uz: "Naqshizarr brendi o'zbek qo'l hunarmandchiligining eng nozik namunalarini yaratadi. Har bir dasturxon ustida tajribali ustalar oylab mehnat qiladi — ipak tolalarini sinchiklab to'qib, an'anaviy miniatura tasvirlarini chizadi.",
+    uz: "Naqshizarr brendi o'zbek qo'l hunarmandchiligining eng nozik namunalarini yaratadi. Har bir dasturxon ustida tajribali ustalar oylab mehnat qiladi — ipak tolalarini sinchiklab  kashta tikilinadi, an'anaviy miniatura tasvirlarini chizadi.",
     en: "The Naqshizarr brand creates the finest examples of Uzbek handcraft. Skilled artisans work for weeks on each tablecloth — meticulously weaving silk fibers and painting traditional miniature art.",
     ru: "Бренд Naqshizarr создаёт лучшие образцы узбекского ремесла. Опытные мастера неделями трудятся над каждой скатертью — тщательно ткут шёлковые волокна и рисуют традиционные миниатюры.",
   },
@@ -125,13 +125,13 @@ export const translations = {
   // About page
   "about.title": { uz: "haqida", en: "About", ru: "О бренде" },
   "about.subtitle": {
-    uz: "Biz O'zbekistonning boy hunarmandchilik an'analarini zamonaviy hayotga olib kiramiz. Har bir mahsulotimiz — bu avlodlar tajribasining noyob ifodasi.",
+    uz: "Biz O'zbekistonning boy hunarmandchilik an'analarini zamonaviy hayotga olib kiramiz. Har bir mahsulotimiz — bu avlodlar tajribasining noyob ifodasi. Naqshizarr bu — oddiy buyumni san'at va moqom ramziga aylantirish",
     en: "We bring the rich craft traditions of Uzbekistan into modern life. Every product is a unique expression of generational expertise.",
     ru: "Мы привносим богатые ремесленные традиции Узбекистана в современную жизнь. Каждый продукт — уникальное выражение многовекового опыта.",
   },
   "about.handmade": { uz: "Qo'l mehnati", en: "Handcraft", ru: "Ручной труд" },
   "about.handmade.desc": {
-    uz: "Har bir dasturxon tajribali usta tomonidan oylab qo'lda tayyorlanadi. Hech qanday mashina ishlatilmaydi.",
+    uz: "Har bir dasturxon tajribali usta tomonidan oylab qo'lda tayyorlanadi.",
     en: "Each tablecloth is handcrafted by skilled artisans over weeks. No machines are used.",
     ru: "Каждая скатерть изготавливается вручную опытными мастерами в течение недель. Никаких машин.",
   },
@@ -149,7 +149,7 @@ export const translations = {
   },
   "about.philosophy": { uz: "Falsafa", en: "Philosophy", ru: "Философия" },
   "about.philosophy.desc": {
-    uz: "Biz bugungi kunda kamdan-kam uchraydigan haqiqiy qo'l hunarmandchiligini saqlab qolish va jahonga tanitishga intilamiz.",
+    uz: "Naqshizarr vaqt va trenddan mustaqil milliy kashtachilik va san'at orqali hamisha global ruhiy darajasida yetakchi bo'lish takrorlanmas va doimiy qadrlanadigan brend bo'lish, o'z mahsulotlari bilan tarix zarvaraqlarida qolish",
     en: "We strive to preserve and share with the world the art of true handcraftsmanship, rare in today's world.",
     ru: "Мы стремимся сохранить и представить миру настоящее ремесло ручной работы, редкое в наши дни.",
   },
